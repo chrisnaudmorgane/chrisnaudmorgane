@@ -2,17 +2,19 @@
 
 ![Header GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)  
 
-🚀 Ingénieur logiciel & créateur de solutions innovantes. Passionné par le développement web/mobile, l’IA et l’arbitrage multi-marchés. Toujours prêt à coder, créer et scaler des projets ambitieux.  
+> 💡 Ingénieur logiciel & entrepreneur numérique  
+> Passionné par le développement web/mobile, l’IA et l’arbitrage multi-marchés.  
+> Toujours en quête de projets ambitieux à scaler 🚀  
 
 ---
 
 ## 🌐 Connectons-nous
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jacex105) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chrisnaud-agossou-11340b2b3) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Morgane)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6600.svg?logo=firefox&logoColor=white)](https://chrisnaud.com)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:agossou@chrisnaud.com)
-[![Téléphone](https://img.shields.io/badge/Téléphone-%230077B5.svg?logo=phone&logoColor=white)](tel:+22947884344)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jacex105) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/chrisnaud-agossou-11340b2b3) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge)](https://x.com/Morgane)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6600.svg?logo=firefox&logoColor=white&style=for-the-badge)](https://chrisnaud.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:agossou@chrisnaud.com)
+[![Téléphone](https://img.shields.io/badge/Téléphone-%230077B5.svg?logo=phone&logoColor=white&style=for-the-badge)](tel:+22947884344)
 
 ---
 
@@ -51,6 +53,15 @@
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
+
+---
+
+## 🚀 Projets récents
+| Projet | Tech | Description |
+|--------|------|-------------|
+| ArbitraChain | Next.js / Node.js / Firebase | Plateforme multi-marchés pour arbitrage CEX/DEX/Forex |
+| AI Automation Lab | React / Node.js / Tailwind | Automatisation de process via IA pour clients et workflow interne |
+| Portfolio Website | Next.js / Vercel | Site vitrine avec intégration GitHub & contact pro |
 
 ---
 
