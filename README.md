@@ -1,7 +1,5 @@
 # 👋 Salut, je suis Chrisnaud
 
-![Header GIF](https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif)  
-
 > 💡 Ingénieur logiciel & entrepreneur numérique  
 > Passionné par le développement web/mobile, l’IA et l’arbitrage multi-marchés.  
 > Toujours en quête de projets ambitieux à scaler 🚀  
